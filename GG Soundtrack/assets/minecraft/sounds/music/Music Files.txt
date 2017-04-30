@@ -1,0 +1,36 @@
+	music.game, type = event
+music/game/creative/creative1, stream = true
+music/game/creative/creative2, stream = true
+music/game/creative/creative3, stream = true
+music/game/creative/creative4, stream = true
+music/game/creative/creative5, stream = true
+music/game/creative/creative6, stream = true
+
+music/game/end/credits, stream = true
+
+music/game/end/boss, stream = true
+
+music/game/end/end, stream = true
+
+music/game/calm1, stream = true
+music/game/calm2, stream = true
+music/game/calm3, stream = true
+music/game/hal1, stream = true
+music/game/hal2, stream = true
+music/game/hal3, stream = true
+music/game/hal4, stream = true
+music/game/nuance1, stream = true
+music/game/nuance2, stream = true
+music/game/piano1, stream = true
+music/game/piano2, stream = true
+music/game/piano3, stream = true
+
+music/menu/menu1, stream = true
+music/menu/menu2, stream = true
+music/menu/menu3, stream = true
+music/menu/menu4, stream = true
+
+music/game/nether/nether1, stream = true
+music/game/nether/nether2, stream = true
+music/game/nether/nether3, stream = true
+music/game/nether/nether4, stream = true
