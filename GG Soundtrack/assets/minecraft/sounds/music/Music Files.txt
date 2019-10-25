@@ -34,3 +34,4 @@ music/game/nether/nether1, stream = true
 music/game/nether/nether2, stream = true
 music/game/nether/nether3, stream = true
 music/game/nether/nether4, stream = true
+music/game/nether/nether5, stream = true
